@@ -1,1 +1,3 @@
-test
+In this project, we set out to discover whether or not some counties in the US were disproportionately affected by COVID-19 in its first 2020 wave. This was done using 2 months worth of COVID-19 data supplied by John Hopkins in conjunction with county-wise poverty, unemployment, and population data supplied by USDA's Economic Research Service. Death disparities borne out of underlying socioeconomic differences were clear to see in the visualizations attached to the Colab document. 
+
+Further, this data was also used to predict a risk factor for each county in the dataset using some of scikit-learn's supervised machine learning models. The risk predictions were in line with our initial assessment, indicating with an 80% accuracy that socioeconomically disadvantaged counties were linked to heightened rates of deaths per COVID-19 cases.       
